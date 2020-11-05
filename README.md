@@ -78,7 +78,7 @@
             "value": "{REF_IMSI}"
           }
         ]
-      },
+      }, 
       {
         "name": "PO",
         "valueType": "string",
